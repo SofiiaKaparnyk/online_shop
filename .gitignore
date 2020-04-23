@@ -1,6 +1,7 @@
 .env
 .coverage*
 .pytest_cache/
+myshop/secret.py
 
 # Other
 venv/
@@ -14,10 +15,12 @@ media/
 .idea
 
 shop/migrations/__pycache__/
+payment/migrations/__pycache__/
 cart/migrations/__pycache__/
 orders/migrations/__pycache__/
 shop/static/.DS_Store
 shop/__pycache__/
+payment/__pycache__/
 myshop/__pycache__/
 cart/__pycache__/
 orders/__pycache__
