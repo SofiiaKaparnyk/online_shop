@@ -2,10 +2,9 @@
 
 This is an online shop.
 
-Users can select the product, add it to cart, create order, pay for it, and use coupons.
-Users receive an email about their orders, and get the recommendations based on their orders.
+Users can select the product, add it to a cart, create an order, pay for it, and use coupons. Users receive an email about their orders and get recommendations based on their orders.
 
-Admin can modify products, orders, can load orders to csv and pdf files.
+Admin can modify products, orders can load orders to CSV and pdf files.
 
 Backend: Django
 
